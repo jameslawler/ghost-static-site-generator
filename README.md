@@ -5,6 +5,9 @@
 ![Forks](https://img.shields.io/github/forks/Fried-Chicken/ghost-static-site-generator.svg)
 ![Issues](https://img.shields.io/github/issues/Fried-Chicken/ghost-static-site-generator.svg)
 # ghost-static-site-generator
+
+Note: This is a forked version of the original while waiting for a pull request to be merged on the original.
+
 A tool for generating static sites from [ghost](https://ghost.org/) blogs. This is based loosely on [buster](https://github.com/axitkhurana/buster) but since that project has been abandoned I've decided to create a new tool. 
 
 There are many reasons for wanting to generate a static site. For example security benefits and speed. It's also possible to integrate this tool into a continuous integration process and deploy the generated site.
